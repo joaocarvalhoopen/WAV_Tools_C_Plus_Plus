@@ -10,5 +10,5 @@ This are the beginnings of a library in C++ to manipulate and process WAV files.
 MIT Open Source License.
 
 ## Have fun!
-Best regards,
+Best regards,<br>
 Joao Nuno Carvalho                                
